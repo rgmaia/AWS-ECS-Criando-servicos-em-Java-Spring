@@ -1,0 +1,2 @@
+set HTTP_PROXY=http://10.10.0.250:3128
+set HTTPS_PROXY=http://10.10.0.250:3128

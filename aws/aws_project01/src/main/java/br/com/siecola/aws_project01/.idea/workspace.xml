@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ffb2c87-5411-4634-acbf-7ea430c527d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/gradle/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/gradle/wrapper/._gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/gradle/wrapper/._gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/java/._br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/java/br/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/java/br/com/._siecola" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/java/br/com/siecola/._aws_project01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/java/br/com/siecola/aws_project01/._AwsProject01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/java/br/com/siecola/aws_project01/._controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/resources/._application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/resources/._static" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/main/resources/._templates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/test/java/._br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/test/java/br/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/test/java/br/com/._siecola" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/test/java/br/com/siecola/._aws_project01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/__MACOSX/aws_project01_start/src/test/java/br/com/siecola/aws_project01/._AwsProject01ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws-fargate-ecs-cdk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/7.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.idea/aws_project01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/build/classes/java/main/br/com/siecola/aws_project01/AwsProject01Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/build/classes/java/main/br/com/siecola/aws_project01/controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_280422_17h.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/src/main/java/br/com/siecola/aws_project01/AwsProject01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/src/main/java/br/com/siecola/aws_project01/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Desenvolvimento/aws_project01_start/src/test/java/br/com/siecola/aws_project01/AwsProject01ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Print de telas/Tela_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Print de telas/Tela_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Print de telas/Tela_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Print de telas/Tela_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Print de telas/Tela_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Print de telas/Tela_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/gradle/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/gradle/wrapper/._gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/gradle/wrapper/._gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/java/._br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/java/br/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/java/br/com/._siecola" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/java/br/com/siecola/._aws_project01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/java/br/com/siecola/aws_project01/._AwsProject01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/java/br/com/siecola/aws_project01/._controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/resources/._application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/resources/._static" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/main/resources/._templates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/test/java/._br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/test/java/br/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/test/java/br/com/._siecola" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/test/java/br/com/siecola/._aws_project01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../__MACOSX/aws_project01_start/src/test/java/br/com/siecola/aws_project01/._AwsProject01ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/src/main/java/br/com/siecola/aws_project01/AwsProject01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/src/main/java/br/com/siecola/aws_project01/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01/src/test/java/br/com/siecola/aws_project01/AwsProject01ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project01_start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../aws_project02_start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/src/main/java/br/com/siecola/aws_project01/AwsProject01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/src/main/java/br/com/siecola/aws_project01/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../teste/src/test/java/br/com/siecola/aws_project01/AwsProject01ApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29RZDbhBmvdY4QyFD8wpiobN5yl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Development/Cursos em andamento/Udemy/Siecola/Criando serviços em Java com AWS ECS/Projetos/Java/Spring/aws/aws_project01/src/main/java/br/com/siecola/aws_project01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ffb2c87-5411-4634-acbf-7ea430c527d3" name="Changes" comment="" />
+      <created>1653077739687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653077739687</updated>
+    </task>
+    <servers />
+  </component>
+</project>
